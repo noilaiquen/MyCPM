@@ -1,0 +1,631 @@
+ [{
+       "province_id": "89",
+       "prefix": "Tỉnh",
+       "name": "An Giang",
+       "province_name": "An Giang",
+       "province_alias": "an giang",
+       "latitude": "10.371350",
+       "longitude": "105.444966",
+       "province_full": "Tỉnh An Giang"
+    },
+    {
+       "province_id": "77",
+       "prefix": "Tỉnh",
+       "name": "Bà Rịa - Vũng Tàu",
+       "province_name": "Bà Rịa - Vũng Tàu",
+       "province_alias": "ba ria - vung tau",
+       "latitude": "10.351173",
+       "longitude": "107.088870",
+       "province_full": "Tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+       "province_id": "24",
+       "prefix": "Tỉnh",
+       "name": "Bắc Giang",
+       "province_name": "Bắc Giang",
+       "province_alias": "bac giang",
+       "latitude": "21.275509",
+       "longitude": "106.201990",
+       "province_full": "Tỉnh Bắc Giang"
+    },
+    {
+       "province_id": "6",
+       "prefix": "Tỉnh",
+       "name": "Bắc Kạn",
+       "province_name": "Bắc Kạn",
+       "province_alias": "bac kan",
+       "latitude": "22.148378",
+       "longitude": "105.835820",
+       "province_full": "Tỉnh Bắc Kạn"
+    },
+    {
+       "province_id": "95",
+       "prefix": "Tỉnh",
+       "name": "Bạc Liêu",
+       "province_name": "Bạc Liêu",
+       "province_alias": "bac lieu",
+       "latitude": "9.286473",
+       "longitude": "105.723008",
+       "province_full": "Tỉnh Bạc Liêu"
+    },
+    {
+       "province_id": "27",
+       "prefix": "Tỉnh",
+       "name": "Bắc Ninh",
+       "province_name": "Bắc Ninh",
+       "province_alias": "bac ninh",
+       "latitude": "21.180150",
+       "longitude": "106.072009",
+       "province_full": "Tỉnh Bắc Ninh"
+    },
+    {
+       "province_id": "83",
+       "prefix": "Tỉnh",
+       "name": "Bến Tre",
+       "province_name": "Bến Tre",
+       "province_alias": "ben tre",
+       "latitude": "10.241360",
+       "longitude": "106.376266",
+       "province_full": "Tỉnh Bến Tre"
+    },
+    {
+       "province_id": "74",
+       "prefix": "Tỉnh",
+       "name": "Bình Dương",
+       "province_name": "Bình Dương",
+       "province_alias": "binh duong",
+       "latitude": "10.981292",
+       "longitude": "106.667036",
+       "province_full": "Tỉnh Bình Dương"
+    },
+    {
+       "province_id": "70",
+       "prefix": "Tỉnh",
+       "name": "Bình Phước",
+       "province_name": "Bình Phước",
+       "province_alias": "binh phuoc",
+       "latitude": "10.851777",
+       "longitude": "106.720464",
+       "province_full": "Tỉnh Bình Phước"
+    },
+    {
+       "province_id": "60",
+       "prefix": "Tỉnh",
+       "name": "Bình Thuận",
+       "province_name": "Bình Thuận",
+       "province_alias": "binh thuan",
+       "latitude": "10.928420",
+       "longitude": "108.109960",
+       "province_full": "Tỉnh Bình Thuận"
+    },
+    {
+       "province_id": "52",
+       "prefix": "Tỉnh",
+       "name": "Bình Định",
+       "province_name": "Bình Định",
+       "province_alias": "binh dinh",
+       "latitude": "13.768471",
+       "longitude": "109.220877",
+       "province_full": "Tỉnh Bình Định"
+    },
+    {
+       "province_id": "96",
+       "prefix": "Tỉnh",
+       "name": "Cà Mau",
+       "province_name": "Cà Mau",
+       "province_alias": "ca mau",
+       "latitude": "9.177251",
+       "longitude": "105.150627",
+       "province_full": "Tỉnh Cà Mau"
+    },
+    {
+       "province_id": "92",
+       "prefix": "Thành phố",
+       "name": "Cần Thơ",
+       "province_name": "Cần Thơ",
+       "province_alias": "can tho",
+       "latitude": "10.035992",
+       "longitude": "105.786631",
+       "province_full": "Thành phố Cần Thơ"
+    },
+    {
+       "province_id": "4",
+       "prefix": "Tỉnh",
+       "name": "Cao Bằng",
+       "province_name": "Cao Bằng",
+       "province_alias": "cao bang",
+       "latitude": "22.665682",
+       "longitude": "106.257947",
+       "province_full": "Tỉnh Cao Bằng"
+    },
+    {
+       "province_id": "64",
+       "prefix": "Tỉnh",
+       "name": "Gia Lai",
+       "province_name": "Gia Lai",
+       "province_alias": "gia lai",
+       "latitude": "13.977287",
+       "longitude": "108.001519",
+       "province_full": "Tỉnh Gia Lai"
+    },
+    {
+       "province_id": "2",
+       "prefix": "Tỉnh",
+       "name": "Hà Giang",
+       "province_name": "Hà Giang",
+       "province_alias": "ha giang",
+       "latitude": "22.828553",
+       "longitude": "104.983862",
+       "province_full": "Tỉnh Hà Giang"
+    },
+    {
+       "province_id": "35",
+       "prefix": "Tỉnh",
+       "name": "Hà Nam",
+       "province_name": "Hà Nam",
+       "province_alias": "ha nam",
+       "latitude": "20.543008",
+       "longitude": "105.912381",
+       "province_full": "Tỉnh Hà Nam"
+    },
+    {
+       "province_id": "1",
+       "prefix": "Thành phố",
+       "name": "Hà Nội",
+       "province_name": "Hà Nội",
+       "province_alias": "ha noi",
+       "latitude": "21.025671",
+       "longitude": "105.853351",
+       "province_full": "Thành phố Hà Nội"
+    },
+    {
+       "province_id": "42",
+       "prefix": "Tỉnh",
+       "name": "Hà Tĩnh",
+       "province_name": "Hà Tĩnh",
+       "province_alias": "ha tinh",
+       "latitude": "18.339445",
+       "longitude": "105.895015",
+       "province_full": "Tỉnh Hà Tĩnh"
+    },
+    {
+       "province_id": "30",
+       "prefix": "Tỉnh",
+       "name": "Hải Dương",
+       "province_name": "Hải Dương",
+       "province_alias": "hai duong",
+       "latitude": "20.939974",
+       "longitude": "106.330428",
+       "province_full": "Tỉnh Hải Dương"
+    },
+    {
+       "province_id": "31",
+       "prefix": "Thành phố",
+       "name": "Hải Phòng",
+       "province_name": "Hải Phòng",
+       "province_alias": "hai phong",
+       "latitude": "20.863955",
+       "longitude": "106.681911",
+       "province_full": "Thành phố Hải Phòng"
+    },
+    {
+       "province_id": "93",
+       "prefix": "Tỉnh",
+       "name": "Hậu Giang",
+       "province_name": "Hậu Giang",
+       "province_alias": "hau giang",
+       "latitude": "9.783169",
+       "longitude": "105.466799",
+       "province_full": "Tỉnh Hậu Giang"
+    },
+    {
+       "province_id": "79",
+       "prefix": "Thành phố",
+       "name": "Hồ Chí Minh",
+       "province_name": "Hồ Chí Minh",
+       "province_alias": "ho chi minh",
+       "latitude": "10.779829",
+       "longitude": "106.699880",
+       "province_full": "Thành phố Hồ Chí Minh"
+    },
+    {
+       "province_id": "17",
+       "prefix": "Tỉnh",
+       "name": "Hòa Bình",
+       "province_name": "Hòa Bình",
+       "province_alias": "hoa binh",
+       "latitude": "20.816688",
+       "longitude": "105.342597",
+       "province_full": "Tỉnh Hòa Bình"
+    },
+    {
+       "province_id": "33",
+       "prefix": "Tỉnh",
+       "name": "Hưng Yên",
+       "province_name": "Hưng Yên",
+       "province_alias": "hung yen",
+       "latitude": "20.652090",
+       "longitude": "106.056639",
+       "province_full": "Tỉnh Hưng Yên"
+    },
+    {
+       "province_id": "56",
+       "prefix": "Tỉnh",
+       "name": "Khánh Hòa",
+       "province_name": "Khánh Hòa",
+       "province_alias": "khanh hoa",
+       "latitude": "12.253780",
+       "longitude": "109.196506",
+       "province_full": "Tỉnh Khánh Hòa"
+    },
+    {
+       "province_id": "91",
+       "prefix": "Tỉnh",
+       "name": "Kiên Giang",
+       "province_name": "Kiên Giang",
+       "province_alias": "kien giang",
+       "latitude": "9.984234",
+       "longitude": "105.102431",
+       "province_full": "Tỉnh Kiên Giang"
+    },
+    {
+       "province_id": "62",
+       "prefix": "Tỉnh",
+       "name": "Kon Tum",
+       "province_name": "Kon Tum",
+       "province_alias": "kon tum",
+       "latitude": "14.354035",
+       "longitude": "108.002853",
+       "province_full": "Tỉnh Kon Tum"
+    },
+    {
+       "province_id": "12",
+       "prefix": "Tỉnh",
+       "name": "Lai Châu",
+       "province_name": "Lai Châu",
+       "province_alias": "lai chau",
+       "latitude": "22.492736",
+       "longitude": "103.968301",
+       "province_full": "Tỉnh Lai Châu"
+    },
+    {
+       "province_id": "68",
+       "prefix": "Tỉnh",
+       "name": "Lâm Đồng",
+       "province_name": "Lâm Đồng",
+       "province_alias": "lam dong",
+       "latitude": "11.947680",
+       "longitude": "108.459881",
+       "province_full": "Tỉnh Lâm Đồng"
+    },
+    {
+       "province_id": "20",
+       "prefix": "Tỉnh",
+       "name": "Lạng Sơn",
+       "province_name": "Lạng Sơn",
+       "province_alias": "lang son",
+       "latitude": "21.853142",
+       "longitude": "106.759351",
+       "province_full": "Tỉnh Lạng Sơn"
+    },
+    {
+       "province_id": "10",
+       "prefix": "Tỉnh",
+       "name": "Lào Cai",
+       "province_name": "Lào Cai",
+       "province_alias": "lao cai",
+       "latitude": "22.492734",
+       "longitude": "103.968302",
+       "province_full": "Tỉnh Lào Cai"
+    },
+    {
+       "province_id": "80",
+       "prefix": "Tỉnh",
+       "name": "Long An",
+       "province_name": "Long An",
+       "province_alias": "long an",
+       "latitude": "10.779829",
+       "longitude": "106.699880",
+       "province_full": "Tỉnh Long An"
+    },
+    {
+       "province_id": "36",
+       "prefix": "Tỉnh",
+       "name": "Nam Định",
+       "province_name": "Nam Định",
+       "province_alias": "nam dinh",
+       "latitude": "20.424646",
+       "longitude": "106.173920",
+       "province_full": "Tỉnh Nam Định"
+    },
+    {
+       "province_id": "40",
+       "prefix": "Tỉnh",
+       "name": "Nghệ An",
+       "province_name": "Nghệ An",
+       "province_alias": "nghe an",
+       "latitude": "18.687089",
+       "longitude": "105.679589",
+       "province_full": "Tỉnh Nghệ An"
+    },
+    {
+       "province_id": "37",
+       "prefix": "Tỉnh",
+       "name": "Ninh Bình",
+       "province_name": "Ninh Bình",
+       "province_alias": "ninh binh",
+       "latitude": "20.251521",
+       "longitude": "105.974113",
+       "province_full": "Tỉnh Ninh Bình"
+    },
+    {
+       "province_id": "58",
+       "prefix": "Tỉnh",
+       "name": "Ninh Thuận",
+       "province_name": "Ninh Thuận",
+       "province_alias": "ninh thuan",
+       "latitude": "11.565604",
+       "longitude": "108.995285",
+       "province_full": "Tỉnh Ninh Thuận"
+    },
+    {
+       "province_id": "25",
+       "prefix": "Tỉnh",
+       "name": "Phú Thọ",
+       "province_name": "Phú Thọ",
+       "province_alias": "phu tho",
+       "latitude": "21.275509",
+       "longitude": "106.201990",
+       "province_full": "Tỉnh Phú Thọ"
+    },
+    {
+       "province_id": "54",
+       "prefix": "Tỉnh",
+       "name": "Phú Yên",
+       "province_name": "Phú Yên",
+       "province_alias": "phu yen",
+       "latitude": "13.086810",
+       "longitude": "109.307135",
+       "province_full": "Tỉnh Phú Yên"
+    },
+    {
+       "province_id": "44",
+       "prefix": "Tỉnh",
+       "name": "Quảng Bình",
+       "province_name": "Quảng Bình",
+       "province_alias": "quang binh",
+       "latitude": "17.471101",
+       "longitude": "1106.621316",
+       "province_full": "Tỉnh Quảng Bình"
+    },
+    {
+       "province_id": "49",
+       "prefix": "Tỉnh",
+       "name": "Quảng Nam",
+       "province_name": "Quảng Nam",
+       "province_alias": "quang nam",
+       "latitude": "15.578829",
+       "longitude": "108.474550",
+       "province_full": "Tỉnh Quảng Nam"
+    },
+    {
+       "province_id": "51",
+       "prefix": "Tỉnh",
+       "name": "Quảng Ngãi",
+       "province_name": "Quảng Ngãi",
+       "province_alias": "quang ngai",
+       "latitude": "15.130825",
+       "longitude": "108.801602",
+       "province_full": "Tỉnh Quảng Ngãi"
+    },
+    {
+       "province_id": "22",
+       "prefix": "Tỉnh",
+       "name": "Quảng Ninh",
+       "province_name": "Quảng Ninh",
+       "province_alias": "quang ninh",
+       "latitude": "20.952013",
+       "longitude": "107.085731",
+       "province_full": "Tỉnh Quảng Ninh"
+    },
+    {
+       "province_id": "45",
+       "prefix": "Tỉnh",
+       "name": "Quảng Trị",
+       "province_name": "Quảng Trị",
+       "province_alias": "quang tri",
+       "latitude": "16.815452",
+       "longitude": "107.110237",
+       "province_full": "Tỉnh Quảng Trị"
+    },
+    {
+       "province_id": "94",
+       "prefix": "Tỉnh",
+       "name": "Sóc Trăng",
+       "province_name": "Sóc Trăng",
+       "province_alias": "soc trang",
+       "latitude": "9.599797",
+       "longitude": "105.959736",
+       "province_full": "Tỉnh Sóc Trăng"
+    },
+    {
+       "province_id": "14",
+       "prefix": "Tỉnh",
+       "name": "Sơn La",
+       "province_name": "Sơn La",
+       "province_alias": "son la",
+       "latitude": "21.332007",
+       "longitude": "103.908942",
+       "province_full": "Tỉnh Sơn La"
+    },
+    {
+       "province_id": "72",
+       "prefix": "Tỉnh",
+       "name": "Tây Ninh",
+       "province_name": "Tây Ninh",
+       "province_alias": "tay ninh",
+       "latitude": "11.030870",
+       "longitude": "106.357355",
+       "province_full": "Tỉnh Tây Ninh"
+    },
+    {
+       "province_id": "34",
+       "prefix": "Tỉnh",
+       "name": "Thái Bình",
+       "province_name": "Thái Bình",
+       "province_alias": "thai binh",
+       "latitude": "20.445884",
+       "longitude": "106.337326",
+       "province_full": "Tỉnh Thái Bình"
+    },
+    {
+       "province_id": "19",
+       "prefix": "Tỉnh",
+       "name": "Thái Nguyên",
+       "province_name": "Thái Nguyên",
+       "province_alias": "thai nguyen",
+       "latitude": "21.593299",
+       "longitude": "105.840535",
+       "province_full": "Tỉnh Thái Nguyên"
+    },
+    {
+       "province_id": "38",
+       "prefix": "Tỉnh",
+       "name": "Thanh Hóa",
+       "province_name": "Thanh Hóa",
+       "province_alias": "thanh hoa",
+       "latitude": "19.808258",
+       "longitude": "105.777132 ",
+       "province_full": "Tỉnh Thanh Hóa"
+    },
+    {
+       "province_id": "46",
+       "prefix": "Tỉnh",
+       "name": "Thừa Thiên Huế",
+       "province_name": "Thừa Thiên Huế",
+       "province_alias": "thua thien hue",
+       "latitude": "16.464967",
+       "longitude": "107.590402",
+       "province_full": "Tỉnh Thừa Thiên Huế"
+    },
+    {
+       "province_id": "82",
+       "prefix": "Tỉnh",
+       "name": "Tiền Giang",
+       "province_name": "Tiền Giang",
+       "province_alias": "tien giang",
+       "latitude": "10.355658",
+       "longitude": "106.361591",
+       "province_full": "Tỉnh Tiền Giang"
+    },
+    {
+       "province_id": "84",
+       "prefix": "Tỉnh",
+       "name": "Trà Vinh",
+       "province_name": "Trà Vinh",
+       "province_alias": "tra vinh",
+       "latitude": "9.936471",
+       "longitude": "106.340236",
+       "province_full": "Tỉnh Trà Vinh"
+    },
+    {
+       "province_id": "8",
+       "prefix": "Tỉnh",
+       "name": "Tuyên Quang",
+       "province_name": "Tuyên Quang",
+       "province_alias": "tuyen quang",
+       "latitude": "21.817438",
+       "longitude": "105.207140",
+       "province_full": "Tỉnh Tuyên Quang"
+    },
+    {
+       "province_id": "86",
+       "prefix": "Tỉnh",
+       "name": "Vĩnh Long",
+       "province_name": "Vĩnh Long",
+       "province_alias": "vinh long",
+       "latitude": "10.255087",
+       "longitude": "105.973064",
+       "province_full": "Tỉnh Vĩnh Long"
+    },
+    {
+       "province_id": "26",
+       "prefix": "Tỉnh",
+       "name": "Vĩnh Phúc",
+       "province_name": "Vĩnh Phúc",
+       "province_alias": "vinh phuc",
+       "latitude": "21.308201",
+       "longitude": "105.593786",
+       "province_full": "Tỉnh Vĩnh Phúc"
+    },
+    {
+       "province_id": "15",
+       "prefix": "Tỉnh",
+       "name": "Yên Bái",
+       "province_name": "Yên Bái",
+       "province_alias": "yen bai",
+       "latitude": "21.715555",
+       "longitude": "104.879263",
+       "province_full": "Tỉnh Yên Bái"
+    },
+    {
+       "province_id": "48",
+       "prefix": "Thành phố",
+       "name": "Đà Nẵng",
+       "province_name": "Đà Nẵng",
+       "province_alias": "da nang",
+       "latitude": "16.072068",
+       "longitude": "108.224526",
+       "province_full": "Thành phố Đà Nẵng"
+    },
+    {
+       "province_id": "66",
+       "prefix": "Tỉnh",
+       "name": "Đăk Lăk",
+       "province_name": "Đăk Lăk",
+       "province_alias": "dak lak",
+       "latitude": "12.679838",
+       "longitude": "108.044167",
+       "province_full": "Tỉnh Đăk Lăk"
+    },
+    {
+       "province_id": "67",
+       "prefix": "Tỉnh",
+       "name": "Đăk Nông",
+       "province_name": "Đăk Nông",
+       "province_alias": "dak nong",
+       "latitude": "12.005235",
+       "longitude": "107.684915",
+       "province_full": "Tỉnh Đăk Nông"
+    },
+    {
+       "province_id": "11",
+       "prefix": "Tỉnh",
+       "name": "Điện Biên",
+       "province_name": "Điện Biên",
+       "province_alias": "dien bien",
+       "latitude": "21.396620",
+       "longitude": "103.009788",
+       "province_full": "Tỉnh Điện Biên"
+    },
+    {
+       "province_id": "75",
+       "prefix": "Tỉnh",
+       "name": "Đồng Nai",
+       "province_name": "Đồng Nai",
+       "province_alias": "dong nai",
+       "latitude": "10.966687",
+       "longitude": "106.853134",
+       "province_full": "Tỉnh Đồng Nai"
+    },
+    {
+       "province_id": "87",
+       "prefix": "Tỉnh",
+       "name": "Đồng Tháp",
+       "province_name": "Đồng Tháp",
+       "province_alias": "dong thap",
+       "latitude": "10.456803",
+       "longitude": "105.636218",
+       "province_full": "Tỉnh Đồng Tháp"
+    }
+ ]
